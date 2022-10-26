@@ -15,7 +15,7 @@ $data = [
     'chat_id' => '-852363990'
 ];
 
-file_get_contents("https://api.telegram.org/bot5367411588:AAGqu6MHQKUUGDiIJiCmedTB8MmXjrWmsaw/sendMessage?" . http_build_query($data) );
+file_get_contents("https://api.telegram.org/bot5351808312:AAGmAZu-SQtzFG98etOdtDAp4YlNPrauaJ8/sendMessage?" . http_build_query($data) );
 
 
 
